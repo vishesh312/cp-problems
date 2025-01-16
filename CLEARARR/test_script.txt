@@ -1,0 +1,7 @@
+newgen1 1 > $
+newgen2 1 > $
+newgen3 1 > $
+newgen4 1 > $
+newgen5 1 > $
+newgen6 1 > $
+
